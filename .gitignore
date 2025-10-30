@@ -1,0 +1,17 @@
+# Environnements virtuels
+venv/
+env/
+.venv/
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/

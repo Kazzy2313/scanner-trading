@@ -1,0 +1,5 @@
+scanner-trading/
+├── app.py                    # Votre script principal
+├── requirements.txt          # Dépendances Python
+├── README.md                # Documentation
+└── .gitignore              # Fichiers à ignorer
